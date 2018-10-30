@@ -1,6 +1,6 @@
 # Lab2: Face Recognition (Supervised Learning Part)
 ## Part 1: KNN Classifier
-- Use a way like Embedding Learning —— Generate 50 datasets first and get average result finally
+- Use a way like Ensemble Learning —— Generate 50 datasets first and get average result finally
 - Exploring KNN training and testing accuracy
 - Leave-One-Out Cross Validation to choose hyperparameter k
 

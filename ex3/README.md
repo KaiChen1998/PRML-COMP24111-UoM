@@ -9,4 +9,4 @@ This lab aims at implementing Naive Bayes classifier on [classical UCI spam e-ma
 - Use Continuous Naive Bayes on a given continuous dataset
 - Implement 10-folder cross validation on original spambase dataset and get an average accuracy of over 80%.
 
-### Important conlusion: Discrete Naive Bayes classfiers outperform continuous ones.
+### Important conclusion: Discrete Naive Bayes classfiers outperform continuous ones.

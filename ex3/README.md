@@ -1,10 +1,12 @@
 # Lab3: Naïve Bayes Classifier for Spam Filtering (Unsupervised Learning Part)
-This lab aims at implementing Naive Bayes classifier on classical UCI spam e-mail dataset
-## Part 1: KNN Classifier
-- Use a way like Ensemble Learning —— Generate 50 datasets first and get average result finally
-- Exploring KNN training and testing accuracy
-- Leave-One-Out Cross Validation to choose hyperparameter k
+This lab aims at implementing Naive Bayes classifier on [classical UCI spam e-mail dataset](http://archive.ics.uci.edu/ml/datasets/Spambase)
 
-## Part 2: Linear Classifier
-- Use basic Least Square loss function and Normal Equation
-- Use other methods to tell a classifier performance, like precision, recall, F-value and so on. In this case, I use object prediction precision to check the classfier performance
+## Part 1: Discrete Naive Bayes
+- Modify original sapmbase dataset to discrete ones.
+- In this part we need to deal with attributes with arbitrary number of possible values and arbitrary number of classes. 
+
+## Part 2: Continuous Naive Bayes
+- Use Continuous Naive Bayes on a given continuous dataset
+- Implement 10-folder cross validation on original spambase dataset and get an average accuracy of over 80%.
+
+# Important conlusion: Discrete Naive Bayes classfiers outperform continuous ones.

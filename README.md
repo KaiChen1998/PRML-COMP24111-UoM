@@ -5,4 +5,3 @@ Three quite simple labs going through basic machine learning algorithms</br>
 - Lab1: Matlab Tutorial
 - Lab2: Face Recognition (Supervised Learning Part)
 - Lab3: Naïve Bayes Classifier for Spam Filtering (Unsupervised Learning Part)
-</br>Still updating 
